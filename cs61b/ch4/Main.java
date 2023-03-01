@@ -8,7 +8,7 @@ import java.util.*;
 /**
  * @author fymas
  */
-public class Exercise {
+public class Main {
     public static List<String> getWords(String inputFileName) {
         In in = new In(inputFileName);
         List<String> words = new ArrayList<>();
